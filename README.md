@@ -1,11 +1,30 @@
 # Hi, I’m @Viku365 👋 
 
-- 👀 I’m interested in **artificial intelligence**, **big data**, and **programming**. I love working on projects that can make a real-world impact.
-- 🌱 I’m currently learning **Git**, **neural networks**, and exploring the world of **cloud computing** with **Azure**.
-- 💞️ I’m looking to collaborate on **AI-driven applications**, **data science projects**, or anything that involves **creative programming solutions**.
-- 📫 How to reach me: [ https://www.linkedin.com/in/victor-herv%C3%A1s-9b64a7171/](https://www.linkedin.com/in/victorhervas/)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: 
+🎓 I'm a professional specialized in **Artificial Intelligence**, **Big Data**, and **Cloud Solutions**, currently deepening my expertise through a master's program focused on building intelligent systems at scale.
+
+## 🚀 About Me
+
+- 💼 Background in **QA Automation**, **Data Engineering**, and **Web Development**.
+- 🔧 Skilled in tools like **Azure**, **Databricks**, **Python**, **Spark**, **SQL**, **FastAPI**, **Micro Focus UFT**, and **Selenium**.
+- 🌍 Passionate about building scalable AI-driven solutions that solve real-world problems.
+- 🧠 Interested in **MLOps**, **LLMs**, **NLP**, and **Computer Vision**.
+
+## 🌱 Currently Learning
+
+- Azure certifications: `DP-203`, `AI-102`, `DP-100`.
+- Machine Learning pipelines with **Azure Machine Learning**, **Synapse Analytics**, and **Copilot Studio**.
+- Applying **MLOps** principles to improve model deployment and lifecycle management.
+
+## 🤝 Let’s Connect
+
+- 💬 I'm open to collaborations on **AI/ML projects**, **data engineering pipelines**, and **cloud-based solutions**.
+- 📫 Find me on [LinkedIn](https://www.linkedin.com/in/victorhervas/)
+
+## ⚡ Fun Fact
+
+> I once automated 200 test cases in less than 2 months with zero prior experience in the tool, just curiosity, learning, and a strong coffee habit ☕️💻
+
+---
 
 <!---
 Viku365/Viku365 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
